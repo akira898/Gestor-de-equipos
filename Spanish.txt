@@ -1,0 +1,2 @@
+Cargar  Equipo
+Crear Equipo
